@@ -1,0 +1,13 @@
+.my-function-section{
+    border: 1px solid gray;
+    width: 1200px;
+    height:150px;
+    border-radius: 5px;
+}
+label{
+    font-weight:600;
+}
+*{
+user-select: none;
+<i class="far fa-moon"></i>
+}
